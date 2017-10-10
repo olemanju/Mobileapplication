@@ -12,6 +12,7 @@ public class Watsapp {
 		if(name.equals("manju"))
 		{
 			System.out.println("Pasws");
+			//updated
 		}
 		else
 		{
